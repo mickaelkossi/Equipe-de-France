@@ -232,3 +232,4 @@ const joueurs = [
         img: "https://fff.twic.pics/https://media.fff.fr/uploads/images/1e8229e1926403514d400ecf56e3dc87.png?twic=v1/focus=390x211/cover=280x400"
     },
 ]
+
